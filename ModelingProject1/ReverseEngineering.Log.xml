@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2014-07-23T22:21:13" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '05df468b-f9c9-4dd6-9059-59013aed6a77' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Integer' -  (PrimitiveType)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern' -  (Package)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Adaptee_LegacyCode' -  (Package)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Adaptee_LegacyCode::GetXMLBookOrder' -  (Class)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Adaptee_LegacyCode::GetXMLBookOrder::GetXMLBookOrder' -  (Operation)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Adaptee_LegacyCode::GetXMLBookOrder::ReadXML' -  (Operation)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Adapter_NewCode' -  (Package)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Adapter_NewCode::BookOrder' -  (Class)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Adapter_NewCode::BookOrder::AdapterDesignPattern‎.Interface‎.IGetBookOrder‎.GetBookOrders' -  (Operation)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Adapter_NewCode::BookOrder::BookOrder' -  (Operation)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Adapter_NewCode::BookOrder::BookOrderArray' -  (Property)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Adapter_NewCode::BookOrder::BookOrders' -  (Property)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Interface' -  (Package)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Interface::IGetBookOrder' -  (Interface)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Interface::IGetBookOrder::GetBookOrders' -  (Operation)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::POCO' -  (Package)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::POCO::Order' -  (Class)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::POCO::Order::Author' -  (Property)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::POCO::Order::Customer' -  (Property)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::POCO::Order::Id' -  (Property)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::POCO::Order::ISBN' -  (Property)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::POCO::Order::Order' -  (Operation)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::POCO::Order::Price' -  (Property)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::POCO::Order::Quantity' -  (Property)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::POCO::Order::Title' -  (Property)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Program' -  (Class)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Program::Main' -  (Operation)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Program::Main::args' -  (Parameter)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::AdapterDesignPattern::Program::Program' -  (Operation)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System' -  (Package)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections' -  (Package)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::ArrayList' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Generic' -  (Package)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Generic::List' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Collections::Generic::List&lt;Order‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProject1::System::Double' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::AdapterDesignPattern::POCO::Order to ModelingProject1::System::Double (Association)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::AdapterDesignPattern::Adapter_NewCode::BookOrder to ModelingProject1::AdapterDesignPattern::Interface::IGetBookOrder (InterfaceRealization)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProject1::AdapterDesignPattern::Adapter_NewCode::BookOrder to ModelingProject1::AdapterDesignPattern::Adaptee_LegacyCode::GetXMLBookOrder (Generalization)" />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="High" Text="(5) type(s) fully reverse engineered." />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="High" Text="(4) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2014-07-23T22:21:17" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>
